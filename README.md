@@ -17,4 +17,4 @@ Basing on PBRT, this is the implementation of my bechlor thesis, which proposed 
 
 See my algorithms in files src/samplers/MyAdaptive.h, MyAdaptive.cpp
 
-My thesis is also provided： [paper/Thesis.pdf](https://github.com/koscielny/pbrt-adaptivesampling/raw/master/paper/Thesis.pdf)
+My thesis is also provided： [paper/Thesis.pdf](https://github.com/koscielny/pbrt-adaptivesampling/raw/master/paper/Thesis.pdf) (in Chinese)
